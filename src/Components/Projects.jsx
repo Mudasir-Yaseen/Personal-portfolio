@@ -1,8 +1,8 @@
 import React from "react";
 import image from "../../public/Project1.jpg";
 import image2 from "../../public/project2.jpg";
-import 'aos/dist/aos.css'
-import aos from 'aos'
+// import 'aos/dist/aos.css'
+// import aos from 'aos'
 
 const Projects = () => {
   return (
